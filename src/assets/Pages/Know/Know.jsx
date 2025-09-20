@@ -1,5 +1,5 @@
 import React from 'react'
-import "./know.css"
+import "./Know.css"
 import Navbar from "../Navbar/Navbar";
 
 const Know = () => {
